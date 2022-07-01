@@ -1,0 +1,6 @@
+npm init -y
+npm install express --save
+npm start
+npm install nodemon --save(it will behaeve like kive server)
+some changing in package .json
+npm install mongoose --save(mongoose instaation )
