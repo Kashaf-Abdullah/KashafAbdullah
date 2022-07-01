@@ -1,8 +1,8 @@
 npm init -y
 npm install express --save
 npm start
-npm install nodemon --save(it will behaeve like kive server)
+npm install nodemon --save(it will behave like live server)
 some changing in package .json
-npm install mongoose --save(mongoose instaation )
-npm i core
-npm i axious
+npm install mongoose --save(mongoose installation )
+npm i core //install in expressbackened)
+npm i axious  //install in fronteened react
